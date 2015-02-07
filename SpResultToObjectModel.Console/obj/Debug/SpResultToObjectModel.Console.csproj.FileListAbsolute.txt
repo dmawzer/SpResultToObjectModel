@@ -1,0 +1,12 @@
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\bin\Debug\SpResultToObjectModel.Console.exe.config
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\obj\Debug\SpResultToObjectModel.Console.csprojResolveAssemblyReference.cache
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\bin\Debug\SpResultToObjectModel.Console.exe
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\bin\Debug\SpResultToObjectModel.Console.pdb
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\bin\Debug\SpResultToObjectModel.BLL.dll
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\bin\Debug\SpResultToObjectModel.Core.dll
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\bin\Debug\SpResultToObjectModel.DAL.dll
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\bin\Debug\SpResultToObjectModel.BLL.pdb
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\bin\Debug\SpResultToObjectModel.Core.pdb
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\bin\Debug\SpResultToObjectModel.DAL.pdb
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\obj\Debug\SpResultToObjectModel.Console.exe
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Console\obj\Debug\SpResultToObjectModel.Console.pdb

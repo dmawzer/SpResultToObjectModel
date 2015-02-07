@@ -1,0 +1,5 @@
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Core\bin\Debug\SpResultToObjectModel.Core.dll
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Core\bin\Debug\SpResultToObjectModel.Core.pdb
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Core\obj\Debug\SpResultToObjectModel.Core.csprojResolveAssemblyReference.cache
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Core\obj\Debug\SpResultToObjectModel.Core.dll
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.Core\obj\Debug\SpResultToObjectModel.Core.pdb

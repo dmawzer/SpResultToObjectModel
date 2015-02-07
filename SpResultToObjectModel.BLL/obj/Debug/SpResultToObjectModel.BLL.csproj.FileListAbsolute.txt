@@ -1,0 +1,7 @@
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.BLL\bin\Debug\SpResultToObjectModel.BLL.dll
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.BLL\bin\Debug\SpResultToObjectModel.BLL.pdb
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.BLL\bin\Debug\SpResultToObjectModel.DAL.dll
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.BLL\bin\Debug\SpResultToObjectModel.DAL.pdb
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.BLL\obj\Debug\SpResultToObjectModel.BLL.csprojResolveAssemblyReference.cache
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.BLL\obj\Debug\SpResultToObjectModel.BLL.dll
+D:\Projects\Project.Sample\SpResultToObjectModel\SpResultToObjectModel.BLL\obj\Debug\SpResultToObjectModel.BLL.pdb
