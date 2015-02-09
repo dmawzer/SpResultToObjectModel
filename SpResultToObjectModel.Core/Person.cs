@@ -12,6 +12,6 @@ namespace SpResultToObjectModel.Core
 
         public string Name { get; set; }
 
-        public string TaxNumber { get; set; }
+        public string TaxNumber { get; set; } 
     }
 }

@@ -15,7 +15,7 @@ namespace SpResultToObjectModel.BLL
 
         public Executer()
         {
-            spExecuter = new SpExecuter();
+            spExecuter = new SpExecuter(); 
         }
 
         public TModel Execute<TModel>(string procedureName) where TModel : class

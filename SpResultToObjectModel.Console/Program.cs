@@ -29,7 +29,7 @@ namespace SpResultToObjectModel.Consolee
                 Console.WriteLine("Person : {0} - {1} - {2}", item.Id, item.Name, item.TaxNumber);
             }
 
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
